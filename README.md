@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! :D I'm Shweta
 
-<!--
-**shwetaTh/shwetaTh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a BCA student with a passion for web development. Currently, I'm working on full-stack web development and creating simple Java applications.
 
-Here are some ideas to get you started:
+## Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shwetaTh&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shwetaTh&theme=radical)
+
+## Contact
+Feel free to reach out to me:
+- Email: [shwetath427@gmail.com](mailto:shwetath427@gmail.com)
