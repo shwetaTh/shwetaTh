@@ -16,3 +16,4 @@ Please visit my portfolio for more information and projects
 ## Contact
 Feel free to reach out to me:
 - Email: [shwetath427@gmail.com](mailto:shwetath427@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/shweta-thapa-5244a4310/
