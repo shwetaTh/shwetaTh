@@ -13,6 +13,10 @@ Please visit my portfolio for more information and projects
 ## GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shwetaTh&theme=radical)
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@neptunessea/30-nites-of-code)  
+  ![@neptunessea #30NitesOfCode](https://www.codedex.io/api/petStatus?user=neptunessea)
+
 ## Contact
 Feel free to reach out to me:
 - Email: [shwetath427@gmail.com](mailto:shwetath427@gmail.com)
