@@ -1,7 +1,7 @@
 # Hi there! :D I'm Shweta
 
 ## About Me
-I'm a BCA student with a passion for web development. Currently, I'm working on full-stack web development and creating simple Java applications.
+I'm a BCA student with a passion for web development. Currently, I'm working on full-stack web development and creating simple applications. I am currently working with Laravel, a PHP framework.
 
 ## Portfolio
 Please visit my portfolio for more information and projects
